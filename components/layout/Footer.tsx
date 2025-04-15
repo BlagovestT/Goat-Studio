@@ -146,7 +146,14 @@ export default function Footer() {
         {/* Copyright */}
         <div className="pt-8 border-t border-[var(--color-gunmetal)] text-[var(--color-silver)] text-sm flex flex-col md:flex-row justify-between items-center">
           <p>© {currentYear} GOAT Studio. Всички права запазени.</p>
-          <div className="flex space-x-4 mt-4 md:mt-0"></div>
+          <div className="flex space-x-4 mt-4 md:mt-0">
+            <Link
+              href="/tinting-law"
+              className="hover:text-[var(--color-racing-red)] transition-colors"
+            >
+              Закон за затъмняване на автостъкла
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

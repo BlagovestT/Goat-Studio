@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "GOAT Studio предлага премиум услуги за облепяне и детайлинг на автомобили. Трансформирайте своя автомобил с професионално облепяне с фолио, керамично покритие, защитно фолио и детайлинг.",
   keywords:
-    "облепяне на автомобили, детайлинг, car wrapping, ceramic coating, автомобилно фолио, стайлинг на коли, защита на боя, GOAT Studio",
+    "облепяне на автомобили, детайлинг, car wrapping, ceramic coating, автомобилно фолио, стайлинг на коли, защита на боя, GOAT Studio, автомобилни услуги, автостайлинг, автофолио, керамично покритие, защита на боя, детайлинг на автомобили, затъмняване на автостъкла, затъмняване на стъкла, автостъкла, тониране на стъкла, тониране на автостъкла, автостайлинг услуги, професионален детайлинг, защита на боята, автофолио услуги",
   icons: {
     icon: "/favicon-96x96.png",
     apple: "/apple-touch-icon.png",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/og-image.jpg", // Path to your public folder
+        url: "/web-app-manifest-512x512.png", // Path to your public folder
         width: 1200,
         height: 630,
         alt: "GOAT Studio - Облепяне и Детайлинг",
