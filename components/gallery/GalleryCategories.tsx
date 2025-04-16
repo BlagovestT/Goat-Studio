@@ -26,7 +26,7 @@ export default function GalleryCategories() {
   };
 
   return (
-    <div className="bg-[var(--color-cool-white)] dark:bg-[var(--color-gunmetal)] py-8 sticky top-15 z-30 border-b border-[var(--color-silver)]/10">
+    <div className="bg-[var(--color-cool-white)] dark:bg-[var(--color-gunmetal)] py-8 sticky top-13 z-30 border-b border-[var(--color-silver)]/10">
       <div className="container-custom">
         <div className="flex justify-center flex-wrap gap-3">
           {categories.map((category) => (
