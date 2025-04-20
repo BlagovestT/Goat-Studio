@@ -10,8 +10,8 @@ import { Dialog, DialogContent } from "@/components/ui/dialog";
 const galleryItems = [
   {
     id: 1,
-    title: "Фолиране на стъклен таван",
-    category: "Полиране",
+    title: "Затъмняване на задни стъкла",
+    category: "Фолиране",
     before: "/images/image-47.jpg",
     after: "/images/image-48.jpg",
   },
@@ -25,9 +25,16 @@ const galleryItems = [
   {
     id: 3,
     title: "Фолиране на хамелионово фолио",
-    category: "Полиране",
+    category: "Фолиране",
     before: "/images/image-36.jpg",
     after: "/images/image-41.jpg",
+  },
+  {
+    id: 4,
+    title: "Затъмняване на автостъкла",
+    category: "Фолиране",
+    before: "/images/image-50.jpg",
+    after: "/images/image-49.jpg",
   },
 ];
 

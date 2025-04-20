@@ -60,7 +60,7 @@ const galleryItems: GalleryItem[] = [
   },
   {
     id: "5",
-    title: "BMW F32 - Хамелионово фолио",
+    title: "BMW F32 - Хамелеоново фолио",
     category: "windshield-tinting",
     src: "/images/image-36.jpg",
     alt: "BMW F32 - Хамелионово фолио",
@@ -77,7 +77,7 @@ const galleryItems: GalleryItem[] = [
   },
   {
     id: "7",
-    title: "BMW F32 - Хамелионово фолио",
+    title: "BMW F32 - Хамелеоново фолио",
     category: "windshield-tinting",
     src: "/images/image-38.jpg",
     alt: "BMW F32 - Хамелионово фолио",
@@ -112,7 +112,7 @@ const galleryItems: GalleryItem[] = [
   },
   {
     id: "11",
-    title: "BMW F32 - Хамелионово фолио",
+    title: "BMW F32 - Хамелеоново фолио",
     category: "windshield-tinting",
     src: "/images/image-40.jpg",
     alt: "BMW F32 - Хамелионово фолио",
@@ -245,7 +245,7 @@ const galleryItems: GalleryItem[] = [
   },
   {
     id: "28",
-    title: "BMW F32 - Хамелионово фолио",
+    title: "BMW F32 - Хамелеоново фолио",
     category: "windshield-tinting",
     src: "/images/image-37.jpg",
     alt: "BMW F32 - Хамелионово фолио",
@@ -254,12 +254,21 @@ const galleryItems: GalleryItem[] = [
   },
   {
     id: "29",
-    title: "BMW F32 - Хамелионово фолио",
+    title: "BMW F32 - Хамелеоново фолио",
     category: "windshield-tinting",
     src: "/images/image-41.jpg",
     alt: "BMW F32 - Хамелионово фолио",
     description:
       "Специално фолио с променящи се цветове според ъгъла на гледане",
+  },
+  {
+    id: "30",
+    title: "Mercedes S class - Затъмняване на стъкла",
+    category: "window-tinting",
+    src: "/images/image-51.jpg",
+    alt: "Mercedes S class - Затъмняване на стъкла",
+    description:
+      "Затъмняване на стъклата за подобрена конфиденциалност и защита от UV лъчи",
   },
 ];
 
